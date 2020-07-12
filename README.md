@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 	<a href="https://github.com/shivamkrpandey"><img src="https://img.shields.io/github/followers/shivamkrpandey?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/shivamkrpandey"><img src="https://img.shields.io/twitter/follow/shivamkrpandey?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/shivamkrpandey"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://img.shields.io/stackexchange/stackoverflow/r/6673165?style=for-the-badge"> alt="Stackoverflow"></a>
+	<a href="https://img.shields.io/stackexchange/stackoverflow/r/6673165?style=for-the-badge" alt="Stackoverflow"></a>
 </p>
